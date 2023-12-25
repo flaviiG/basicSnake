@@ -1,3 +1,3 @@
-#The most basic Snake game
+# The most basic Snake game
 
-##Just exercising my javascript
+## Just exercising my javascript
